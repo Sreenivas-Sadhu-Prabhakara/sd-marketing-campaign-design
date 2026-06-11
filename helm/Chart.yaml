@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-marketing-campaign-design
+description: "BIAN Service Domain: Marketing Campaign Design (Design pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - design
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Marketing"
+  bian/asset-type: "Marketing Campaign"
+  bian/control-record: "Marketing Campaign Design"
